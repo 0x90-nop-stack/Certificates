@@ -18,6 +18,8 @@
 
 * [Cyber Defense](TryHackMe/Cyber%20Defense.png)
 
+* [Red Teaming](TryHackMe/RedTeamingLearningPath.png)
+
 ## Events
 
 * [Advent of Cyber 4 - 2022](TryHackMe/AdventOfCyber2022.png)
