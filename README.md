@@ -20,6 +20,8 @@
 
 * [Red Teaming](TryHackMe/RedTeamingLearningPath.png)
 
+* [SOC Level 1](TryHackMe/SOC_Level_1.png)
+
 ## Events
 
 * [Advent of Cyber 4 - 2022](TryHackMe/AdventOfCyber2022.png)
