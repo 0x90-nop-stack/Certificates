@@ -24,6 +24,8 @@
 
 ## Events
 
+* [THM Advent of Cyber - 2023](TryHackMe/AdventOfCyber2023.png)
+
 * [HTB Cyber Apocalypse - 2023](HackTheBox/Cyber-Apocalypse-CTF-2023-0x90nopstack.pdf)
 
 * [THM Advent of Cyber 4 - 2022](TryHackMe/AdventOfCyber2022.png)
